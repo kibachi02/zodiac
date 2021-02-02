@@ -1,0 +1,18 @@
+body {
+    margin: 0 auto;
+    width: 760px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+input {
+    width: 150px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
